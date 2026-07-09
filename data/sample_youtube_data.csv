@@ -1,11 +1,151 @@
 Video_ID,Channel_Name,Country,Upload_Date,Category,Violation_Type,Severity,Views,Action_Taken
-V001,TechGuruIndia,India,2025-01-05,Technology,Spam,Medium,245000,Removed
-V002,DailyNews24,India,2025-01-08,News,Misinformation,High,980000,Removed
-V003,GamingZone,USA,2025-01-10,Gaming,Hate Speech,High,450000,Age Restricted
-V004,MovieBuzz,UK,2025-01-12,Entertainment,Copyright,Low,1200000,Warning Issued
-V005,FitnessPro,Canada,2025-01-15,Health,Medical Misinformation,High,375000,Removed
-V006,FoodExplorer,Australia,2025-01-18,Food,Spam,Low,210000,None
-V007,TravelWorld,Germany,2025-01-20,Travel,Scam,High,150000,Removed
-V008,MusicHits,Brazil,2025-01-22,Music,Copyright,Medium,870000,Revenue Shared
-V009,CryptoTalk,Singapore,2025-01-25,Finance,Scam,High,520000,Removed
-V010,KidsLearning,India,2025-01-28,Education,Child Safety,High,690000,Removed
+V001,MovieBuzz,Canada,2025-03-12,Gaming,Medical Misinformation,High,479895,Removed
+V002,TravelWorld,India,2025-06-01,Technology,Medical Misinformation,High,442986,Removed
+V003,MovieBuzz,Japan,2025-05-24,Travel,Misinformation,High,974594,Removed
+V004,FinanceFocus,UK,2025-01-02,Travel,Copyright,Low,1477114,Warning Issued
+V005,DailyNews24,USA,2025-03-28,Travel,Misinformation,High,455657,Removed
+V006,FitnessPro,India,2025-06-04,Finance,Hate Speech,High,2299103,Age Restricted
+V007,CryptoTalk,Australia,2025-01-21,Music,Spam,Medium,1566807,Removed
+V008,TechGuruIndia,Canada,2025-01-18,Health,Copyright,Low,384671,None
+V009,FitnessPro,Singapore,2025-04-08,Food,Child Safety,High,732220,Removed
+V010,FitnessPro,USA,2025-06-21,Music,Hate Speech,High,767807,Removed
+V011,MusicHits,Brazil,2025-02-11,Health,Copyright,Low,2386016,Revenue Shared
+V012,MovieBuzz,India,2025-01-15,Food,Misinformation,High,1732607,Age Restricted
+V013,CodeMaster,Germany,2025-05-26,Entertainment,Misinformation,High,2143927,Removed
+V014,FitnessPro,UK,2025-02-06,Entertainment,Hate Speech,High,2404548,Age Restricted
+V015,TravelWorld,UAE,2025-05-30,Travel,Copyright,Low,1568323,None
+V016,MusicHits,USA,2025-05-11,Technology,Misinformation,High,509901,Removed
+V017,TravelWorld,UAE,2025-06-24,News,Spam,Medium,1663831,Warning Issued
+V018,FitnessPro,Japan,2025-05-16,Technology,Hate Speech,High,530464,Age Restricted
+V019,FoodExplorer,USA,2025-06-14,Health,Medical Misinformation,High,1873537,Age Restricted
+V020,CryptoTalk,UK,2025-03-09,Education,Spam,Medium,496319,Warning Issued
+V021,CryptoTalk,UAE,2025-06-13,Entertainment,Child Safety,High,691054,Age Restricted
+V022,FinanceFocus,Japan,2025-05-19,Technology,Hate Speech,High,1409609,Removed
+V023,CodeMaster,Australia,2025-04-03,Entertainment,Copyright,Low,292955,Revenue Shared
+V024,SportsArena,Singapore,2025-01-22,News,Misinformation,High,2284331,Removed
+V025,MusicHits,Japan,2025-06-18,Gaming,Scam,High,1161728,Removed
+V026,MovieBuzz,Japan,2025-04-19,Entertainment,Copyright,Low,1357432,None
+V027,CodeMaster,Japan,2025-04-23,Finance,Hate Speech,High,557528,Age Restricted
+V028,TechGuruIndia,UAE,2025-03-28,Education,Misinformation,High,1015171,Removed
+V029,SportsArena,India,2025-01-19,Entertainment,Copyright,Low,332697,Revenue Shared
+V030,CryptoTalk,Canada,2025-01-19,Health,Harassment,Medium,2085975,Removed
+V031,KidsLearning,Singapore,2025-05-27,Entertainment,Misinformation,High,2033792,Removed
+V032,DailyNews24,Brazil,2025-01-25,Food,Scam,High,1826617,Removed
+V033,ScienceSphere,USA,2025-06-22,Technology,Hate Speech,High,1738716,Removed
+V034,MovieBuzz,Canada,2025-03-05,Education,Scam,High,1931621,Removed
+V035,MusicHits,Canada,2025-03-13,News,Spam,Medium,1908625,Warning Issued
+V036,ScienceSphere,Japan,2025-01-13,Technology,Scam,High,441172,Removed
+V037,TravelWorld,Singapore,2025-02-12,Finance,Harassment,Medium,946521,Warning Issued
+V038,TravelWorld,India,2025-02-12,Travel,Child Safety,High,1162342,Removed
+V039,TravelWorld,Japan,2025-03-15,Finance,Harassment,Medium,699264,Removed
+V040,KidsLearning,Japan,2025-01-15,Technology,Misinformation,High,1365353,Removed
+V041,CodeMaster,Japan,2025-05-09,Gaming,Spam,Medium,288570,Removed
+V042,DailyNews24,UAE,2025-02-17,News,Harassment,Medium,1036516,Warning Issued
+V043,KidsLearning,India,2025-05-29,Music,Hate Speech,High,393863,Removed
+V044,MovieBuzz,Germany,2025-03-08,Entertainment,Hate Speech,High,1164068,Age Restricted
+V045,FoodExplorer,USA,2025-04-28,Technology,Hate Speech,High,1972188,Age Restricted
+V046,DailyNews24,Japan,2025-01-26,Entertainment,Copyright,Low,2171834,None
+V047,CodeMaster,Canada,2025-01-18,Food,Misinformation,High,1245323,Age Restricted
+V048,FinanceFocus,Japan,2025-06-06,Technology,Spam,Medium,2376170,Removed
+V049,FitnessPro,USA,2025-02-04,News,Misinformation,High,2370388,Removed
+V050,MovieBuzz,Germany,2025-06-04,Entertainment,Spam,Medium,1157228,Removed
+V051,DailyNews24,Brazil,2025-01-14,Health,Copyright,Low,234913,Warning Issued
+V052,FitnessPro,UK,2025-06-13,Finance,Spam,Medium,2363915,Warning Issued
+V053,DailyNews24,UK,2025-01-29,Education,Medical Misinformation,High,201112,Removed
+V054,GamingZone,India,2025-04-21,Health,Child Safety,High,1579459,Removed
+V055,MovieBuzz,Canada,2025-04-02,News,Child Safety,High,1533435,Removed
+V056,SportsArena,UK,2025-06-08,Entertainment,Scam,High,731581,Age Restricted
+V057,TechGuruIndia,UK,2025-04-16,Food,Harassment,Medium,1776850,Warning Issued
+V058,GamingZone,USA,2025-03-10,Travel,Scam,High,212422,Removed
+V059,BeautyStudio,Singapore,2025-02-21,Food,Child Safety,High,1330063,Removed
+V060,TechGuruIndia,Canada,2025-02-27,Travel,Scam,High,1426830,Removed
+V061,FoodExplorer,Japan,2025-03-13,Travel,Misinformation,High,2299051,Removed
+V062,CodeMaster,Australia,2025-01-30,Gaming,Hate Speech,High,2485169,Removed
+V063,DailyNews24,UAE,2025-01-10,Travel,Harassment,Medium,1499916,Removed
+V064,KidsLearning,Japan,2025-04-22,News,Scam,High,1665626,Age Restricted
+V065,TechGuruIndia,Brazil,2025-03-07,Technology,Child Safety,High,2230703,Removed
+V066,TravelWorld,USA,2025-04-04,Food,Harassment,Medium,1366657,Warning Issued
+V067,CryptoTalk,Australia,2025-03-18,Travel,Medical Misinformation,High,1418110,Removed
+V068,GamingZone,Canada,2025-05-22,Travel,Hate Speech,High,1640250,Age Restricted
+V069,KidsLearning,Australia,2025-06-07,Travel,Medical Misinformation,High,2348215,Removed
+V070,MovieBuzz,Brazil,2025-03-15,Music,Child Safety,High,1401611,Age Restricted
+V071,MovieBuzz,Japan,2025-06-22,Finance,Copyright,Low,761737,Warning Issued
+V072,ScienceSphere,UAE,2025-05-12,Food,Medical Misinformation,High,441694,Age Restricted
+V073,FitnessPro,Canada,2025-06-22,Entertainment,Scam,High,668047,Removed
+V074,KidsLearning,USA,2025-05-02,Finance,Spam,Medium,1788291,Warning Issued
+V075,TravelWorld,Singapore,2025-06-28,Travel,Child Safety,High,1073344,Removed
+V076,FinanceFocus,Brazil,2025-01-28,Entertainment,Spam,Medium,787722,Warning Issued
+V077,CryptoTalk,Canada,2025-01-13,News,Scam,High,1964539,Age Restricted
+V078,CryptoTalk,Japan,2025-06-20,Music,Spam,Medium,1380844,Removed
+V079,BeautyStudio,Japan,2025-06-06,Travel,Harassment,Medium,2347941,Removed
+V080,MusicHits,Australia,2025-05-02,Entertainment,Copyright,Low,1213128,Revenue Shared
+V081,MovieBuzz,Australia,2025-06-10,Finance,Scam,High,374988,Age Restricted
+V082,FoodExplorer,Germany,2025-03-11,Education,Scam,High,387967,Removed
+V083,SportsArena,UK,2025-04-09,Entertainment,Spam,Medium,319395,Warning Issued
+V084,MusicHits,Brazil,2025-05-19,Technology,Hate Speech,High,917526,Age Restricted
+V085,SportsArena,India,2025-05-30,Music,Child Safety,High,1645433,Age Restricted
+V086,FinanceFocus,Brazil,2025-03-18,Travel,Copyright,Low,2307460,Warning Issued
+V087,MovieBuzz,Australia,2025-05-05,Travel,Scam,High,2086930,Removed
+V088,ScienceSphere,Brazil,2025-06-21,Gaming,Spam,Medium,2010376,Removed
+V089,KidsLearning,UAE,2025-04-11,Technology,Harassment,Medium,402101,Warning Issued
+V090,GamingZone,India,2025-04-29,Health,Medical Misinformation,High,1640076,Removed
+V091,FoodExplorer,Brazil,2025-03-25,Health,Misinformation,High,1818171,Age Restricted
+V092,TechGuruIndia,Japan,2025-05-01,Technology,Misinformation,High,1517840,Removed
+V093,TechGuruIndia,India,2025-06-16,Entertainment,Misinformation,High,886179,Removed
+V094,GamingZone,Singapore,2025-03-03,News,Child Safety,High,2415459,Removed
+V095,FitnessPro,Germany,2025-06-29,Gaming,Harassment,Medium,530385,Removed
+V096,DailyNews24,UAE,2025-03-21,Technology,Scam,High,1358443,Removed
+V097,SportsArena,Canada,2025-04-12,News,Copyright,Low,1068584,Warning Issued
+V098,KidsLearning,USA,2025-06-25,Music,Spam,Medium,222256,Removed
+V099,FoodExplorer,USA,2025-06-19,Education,Hate Speech,High,1481227,Age Restricted
+V100,DailyNews24,Brazil,2025-05-06,Food,Spam,Medium,1978286,Removed
+V101,SportsArena,Japan,2025-02-15,Health,Medical Misinformation,High,2307260,Age Restricted
+V102,BeautyStudio,UAE,2025-04-22,Health,Scam,High,1401843,Age Restricted
+V103,CodeMaster,Singapore,2025-03-13,Entertainment,Child Safety,High,1999128,Removed
+V104,FoodExplorer,India,2025-04-08,Finance,Copyright,Low,1413208,None
+V105,FinanceFocus,Australia,2025-04-01,Food,Misinformation,High,1222972,Removed
+V106,TechGuruIndia,Japan,2025-05-23,Entertainment,Child Safety,High,409086,Age Restricted
+V107,CryptoTalk,Canada,2025-05-06,Finance,Misinformation,High,2108653,Age Restricted
+V108,FitnessPro,Canada,2025-01-24,Travel,Copyright,Low,1070495,Revenue Shared
+V109,CryptoTalk,Japan,2025-05-02,Food,Misinformation,High,1834692,Age Restricted
+V110,SportsArena,Singapore,2025-04-01,Health,Harassment,Medium,1336070,Removed
+V111,FoodExplorer,USA,2025-02-19,Education,Misinformation,High,826574,Removed
+V112,SportsArena,UAE,2025-03-12,Education,Misinformation,High,1236982,Age Restricted
+V113,MovieBuzz,Germany,2025-03-17,Gaming,Harassment,Medium,1317802,Warning Issued
+V114,TechGuruIndia,India,2025-03-12,Education,Spam,Medium,1275309,Warning Issued
+V115,BeautyStudio,Singapore,2025-06-13,News,Medical Misinformation,High,101444,Removed
+V116,MusicHits,Germany,2025-05-03,Gaming,Copyright,Low,265489,Warning Issued
+V117,BeautyStudio,USA,2025-01-30,Travel,Misinformation,High,2112534,Age Restricted
+V118,GamingZone,UAE,2025-02-08,Health,Spam,Medium,407274,Warning Issued
+V119,FinanceFocus,Brazil,2025-05-23,Music,Harassment,Medium,996600,Warning Issued
+V120,CodeMaster,Singapore,2025-04-26,Health,Scam,High,1848642,Age Restricted
+V121,SportsArena,USA,2025-06-06,Entertainment,Misinformation,High,935103,Removed
+V122,MovieBuzz,UK,2025-02-10,Education,Misinformation,High,364844,Removed
+V123,SportsArena,UAE,2025-04-26,Finance,Spam,Medium,1271630,Removed
+V124,FitnessPro,Singapore,2025-06-30,News,Spam,Medium,1029050,Removed
+V125,DailyNews24,Japan,2025-04-19,Entertainment,Harassment,Medium,674906,Warning Issued
+V126,TechGuruIndia,UK,2025-01-19,Health,Harassment,Medium,2437427,Warning Issued
+V127,MusicHits,Australia,2025-02-01,Travel,Harassment,Medium,1191883,Removed
+V128,DailyNews24,UAE,2025-04-23,Technology,Copyright,Low,1862059,Warning Issued
+V129,DailyNews24,Canada,2025-01-07,Music,Scam,High,137012,Age Restricted
+V130,TechGuruIndia,UK,2025-05-28,Finance,Harassment,Medium,2226692,Removed
+V131,KidsLearning,Brazil,2025-02-16,Finance,Medical Misinformation,High,432698,Age Restricted
+V132,FoodExplorer,USA,2025-03-27,Gaming,Copyright,Low,1433296,Warning Issued
+V133,ScienceSphere,Brazil,2025-03-15,Education,Hate Speech,High,203918,Age Restricted
+V134,FoodExplorer,USA,2025-03-06,Travel,Copyright,Low,2208373,Warning Issued
+V135,BeautyStudio,Japan,2025-06-18,Finance,Scam,High,1783285,Removed
+V136,FinanceFocus,Singapore,2025-06-09,Finance,Spam,Medium,266475,Removed
+V137,MusicHits,Singapore,2025-03-15,News,Misinformation,High,171087,Removed
+V138,FitnessPro,Japan,2025-02-10,Technology,Harassment,Medium,2366310,Warning Issued
+V139,MusicHits,USA,2025-01-30,Gaming,Hate Speech,High,2140338,Removed
+V140,SportsArena,Australia,2025-05-11,Travel,Harassment,Medium,2073749,Removed
+V141,CryptoTalk,UK,2025-04-27,Travel,Harassment,Medium,849477,Warning Issued
+V142,FitnessPro,Brazil,2025-01-18,Food,Harassment,Medium,2179606,Warning Issued
+V143,SportsArena,Australia,2025-03-14,Music,Misinformation,High,2482374,Removed
+V144,MusicHits,Japan,2025-02-08,Finance,Harassment,Medium,1497554,Removed
+V145,CodeMaster,Germany,2025-04-27,Entertainment,Hate Speech,High,1051623,Age Restricted
+V146,TechGuruIndia,Germany,2025-04-16,Finance,Copyright,Low,1648999,Revenue Shared
+V147,TechGuruIndia,UK,2025-05-07,Education,Hate Speech,High,1442486,Removed
+V148,CryptoTalk,Singapore,2025-01-26,Technology,Child Safety,High,654631,Age Restricted
+V149,MusicHits,Australia,2025-01-20,Food,Hate Speech,High,1717165,Removed
+V150,BeautyStudio,Japan,2025-06-22,Travel,Medical Misinformation,High,1378173,Age Restricted
