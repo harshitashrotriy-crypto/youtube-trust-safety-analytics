@@ -1,0 +1,11 @@
+Video_ID,Channel_Name,Country,Upload_Date,Category,Violation_Type,Severity,Views,Action_Taken
+V001,TechGuruIndia,India,2025-01-05,Technology,Spam,Medium,245000,Removed
+V002,DailyNews24,India,2025-01-08,News,Misinformation,High,980000,Removed
+V003,GamingZone,USA,2025-01-10,Gaming,Hate Speech,High,450000,Age Restricted
+V004,MovieBuzz,UK,2025-01-12,Entertainment,Copyright,Low,1200000,Warning Issued
+V005,FitnessPro,Canada,2025-01-15,Health,Medical Misinformation,High,375000,Removed
+V006,FoodExplorer,Australia,2025-01-18,Food,Spam,Low,210000,None
+V007,TravelWorld,Germany,2025-01-20,Travel,Scam,High,150000,Removed
+V008,MusicHits,Brazil,2025-01-22,Music,Copyright,Medium,870000,Revenue Shared
+V009,CryptoTalk,Singapore,2025-01-25,Finance,Scam,High,520000,Removed
+V010,KidsLearning,India,2025-01-28,Education,Child Safety,High,690000,Removed
